@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Alejandro </h1>
 
 
-### Hi, I'm Alejandro Azofeifa, a passionate software engineer.
+### Hi, my name is Alejandro Azofeifa and I a passionate software engineer.
 
 - 🔭 I’m currently working at **Microsoft** 
 - 🌱 I’m in the learning path of becoming **Data Scientist**
