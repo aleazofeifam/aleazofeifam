@@ -9,9 +9,9 @@
 - 📫 You can reach me over [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
 
 ### Feel free to check some other information about my profile
-- #### Here is my [Portfolio!](https://aleazofeifam.github.io) 💡 with the description  projects I've worked on.
-- #### Here is my [GitBook page](https://aleazofeifam.gitbook.io/ale-s-learning-garage/) 📚 where I explain different topics/tecnologies/products.
-- #### And once again my [LinkedIn profile](https://www.linkedin.com/in/alejandro-azofeifa/) :)
+-  Here is my [Portfolio!](https://aleazofeifam.github.io) 💡 with the description  projects I've worked on.
+-  Here is my [GitBook page](https://aleazofeifam.gitbook.io/ale-s-learning-garage/) 📚 where I explain different topics/tecnologies/products.
+- And once again my [LinkedIn profile](https://www.linkedin.com/in/alejandro-azofeifa/) :)
 
 
 <!--- 
