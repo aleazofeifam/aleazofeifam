@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Alejandro </h1>
 
 
-### Hi, my name is Alejandro Azofeifa and I a passionate software engineer.
+### Hi, my name is Alejandro Azofeifa and a software engineer.
 
-- 🔭 I’m currently working at **Microsoft** as an Account Manager helping customers in the cloud adoption.
+- 🔭 I’m currently working at **Microsoft** as an Account Manager helping customers in the cloud adoption
 - 🌱 I’m in the learning path of becoming **Data Scientist**
 - 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python and R**
 - 📫 You can reach me over [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
