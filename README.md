@@ -3,14 +3,20 @@
 
 ### Hi, my name is Alejandro Azofeifa and I a passionate software engineer.
 
-- 🔭 I’m currently working at **Microsoft** 
+- 🔭 I’m currently working at **Microsoft** as an Account Manager helping customers in the cloud adoption.
 - 🌱 I’m in the learning path of becoming **Data Scientist**
 - 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python and R**
 - 📫 You can reach me over [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
 
-## Feel free to check [My Portfolio!](https://aleazofeifam.github.io) 💡 and connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
+### Feel free to check some other information about my profile
+- #### Here is my [Portfolio!](https://aleazofeifam.github.io) 💡 with the description  projects I've worked on.
+- #### Here is my [GitBook page](https://aleazofeifam.gitbook.io/ale-s-learning-garage/) 📚 where I explain different topics/tecnologies/products.
+- #### And once again my [LinkedIn profile](https://www.linkedin.com/in/alejandro-azofeifa/) :)
 
 
+<!--- 
+
+TODO: Need to update this below
 <p>
 </p>
 
@@ -55,3 +61,4 @@
     </a>
 
 </p>
+--->
