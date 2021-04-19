@@ -10,11 +10,8 @@
 
 ### Feel free to check some other information about my profile
 -  Here is my [Portfolio!](https://aleazofeifam.github.io) 💡 with some projects I've worked on.
--  I also like to share what I've learned 📚 so in the following links you will find some Learning Docs I created to explain different tech-topics of my domain expertise.
-    - [Azure](https://www.notion.so/learningdocs/Azure-fc749ed21122403086a0008c867fa36f)
-    - [Data Science](https://www.notion.so/learningdocs/Data-Science-1036d22285be4d6fbfbae575da51f7bc)
-    - [Tools](https://www.notion.so/learningdocs/Tools-06bf6dab46a24aad8f8ed9ca10f83b75)
-- And once again my [LinkedIn profile](https://www.linkedin.com/in/alejandro-azofeifa/) if you want to connect :)
+-  I also like to share what I've learned 📚 so in feel free to check my learning repository where cover different tech-topics of my domain expertise. [Learning content](https://www.notion.so/learningdocs/Main-47ee37891d8147ee9db7c751c8635f17)
+
 
 
 <!--- 
