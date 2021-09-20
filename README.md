@@ -8,13 +8,16 @@
 - 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python and R**
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
 
+<!--- 
+
+TODO: Need to update this below
 ### Feel free to check some other information about my profile
 -  Here is my [Portfolio!](https://aleazofeifam.github.io) 💡 with some projects I've worked on.
 -  I also like to share what I've learned 📚 so in feel free to check my learning repository where cover different tech-topics of my domain expertise. [Learning content](https://www.notion.so/learningdocs/Main-47ee37891d8147ee9db7c751c8635f17)
 
 
 
-<!--- 
+
 
 TODO: Need to update this below
 <p>
