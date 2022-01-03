@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Microsoft** as an Account Manager helping customers in the cloud adoption
 - 🌱 I’m in the learning path of becoming **Data Scientist**
-- 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python and R**
+- 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python, R and Julia**
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
 
 <!--- 
