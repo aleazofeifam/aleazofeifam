@@ -3,10 +3,9 @@
 
 ### Hi, my name is Alejandro Azofeifa and I am a software engineer.
 
-- 🔭 I’m currently working at **Microsoft** as an Account Manager helping customers in the cloud adoption
-- 🌱 I’m in the learning path of becoming **Data Scientist**
-- 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python, R and Julia**
-- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
+- 🔭 I’m currently working at **Databricks** as an Account Executive helping customers solving the biggest data problems.
+- 💬 You can ask me about **Azure Identity, Azure Data Explorer (Kusto), SQL, Python, Databricks**
+- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alejandro-azofeifa/)
 
 <!--- 
 
